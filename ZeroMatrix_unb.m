@@ -4,7 +4,6 @@
 %                http://www.cs.utexas.edu/users/flame/license.html 
 %                                                                                 
 % Programmed by: Anni Liu
-%                ali4006@med.cornell.edu
 
 % Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
 
