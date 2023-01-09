@@ -35,6 +35,7 @@ function [ A_out ] = ZeroMatrix_unb( A )
 
 return
 
+% Test the function:
 % A = randi( [ -2, 2 ], 5, 4 )
 % A =
 
