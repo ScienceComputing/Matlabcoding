@@ -5,6 +5,8 @@
 %                                                                                 
 % Programmed by: Anni Liu
 
+% Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
+
 function [ B_out ] = Transpose_unb( A, B )
 
   [ AL, AR ] = FLA_Part_1x2( A, ...
