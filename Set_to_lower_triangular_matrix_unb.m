@@ -8,7 +8,7 @@
 
 % Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
 
-function [ A_out ] = Set_to_upper_triangular_matrix_unb( A )
+function [ A_out ] = Set_to_lower_triangular_matrix_unb( A )
 
   [ ATL, ATR, ...
     ABL, ABR ] = FLA_Part_2x2( A, ...
