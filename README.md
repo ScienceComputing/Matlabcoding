@@ -16,3 +16,5 @@
 - [A function that sets a given matrix to a strictly lower triangular matrix, by expanding the top left quadrant by one row and one column at a time](Set_to_strictly_lower_triangular_matrix_unb.m)
 
 - [A function that sets a given matrix to a unit lower triangular matrix, by expanding the top left quadrant by one row and one column at a time](Set_to_unit_lower_triangular_matrix_unb.m)
+
+- [A function that transposes a given matrix, by expanding the left part of an input matrix by one column and the top part of another input matrix by one row at a time](Transpose_unb.m)
