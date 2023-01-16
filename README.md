@@ -24,3 +24,5 @@
 - [A function that symmetrizes a given matrix from the lower triangle matrix, by expanding the top left quadrant by one row and one column at a time](Symmetrize_from_lower_triangle_unb.m)
 
 - [A function that symmetrizes a given matrix from the upper triangle matrix, by expanding the top left quadrant by one row and one column at a time](Symmetrize_from_upper_triangle_unb.m)
+
+- [A function that scales a given matrix, by scaling a column at a time](Scale_matrix_unb.m)
