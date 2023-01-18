@@ -28,3 +28,5 @@
 - [A function that scales a given matrix, by scaling a column at a time](Scale_matrix_unb.m)
 
 - [A function that adds two given matrices, by adding two columns at a time](Add_matrices_unb.m)
+
+- [A function that multiplies a matrix and a vector using the dot-product, by one row at a time](Mvmult_n_unb_var1.m)
