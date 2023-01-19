@@ -31,4 +31,4 @@
 
 - [A function that multiplies a matrix and a vector using the dot-product of rows of the matrix with the vector, by one row of the matrix at a time](Mvmult_n_unb_var1.m)
 
--[A function that multiplies a matrix and a vector using the linear combination of the columns of this given matrix, by one column of the matrix at a time](Mvmult_n_unb_var2.m)
+- [A function that multiplies a matrix and a vector using the linear combination of the columns of this given matrix, by one column of the matrix at a time](Mvmult_n_unb_var2.m)
