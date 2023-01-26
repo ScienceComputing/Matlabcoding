@@ -37,4 +37,8 @@
 
 - [A function that multiplies a matrix and a vector using the partitioned linear combination (AXPY) of the columns of this given matrix](Mvmult_n_unb_var2B.m)
 
-- [A function that multiplies a transposed matrix and a vector using the dot-product of columns of the matrix with the vector, by one column of the matrix at a time](Mvmult_t_unb_var1.m)
+- [A function that multiplies a transposed matrix and a vector using the dot-product of columns of the original matrix with the vector, by one column of the original matrix at a time](Mvmult_t_unb_var1.m)
+
+- [A function that multiplies a transposed matrix and a vector using the linear combination of the rows of the original matrix, by one row of the original matrix at a time](Mvmult_t_unb_var2.m)
+
+*Note*: For the matrix-vector multiplication of Ax + y, choose the algorithm that uses linear combination (AXPY operations), since AXPY operations access a matrix by columns and this way of subsetting a matrix tends to be faster than an algorithm that accesses a matrix by rows. However, for the matrix-vector multiplication of A^Tx + y, choose the algorithm that uses dot products, because these dot product operations access a matrix by columns.
