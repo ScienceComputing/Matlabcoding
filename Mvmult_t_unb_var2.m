@@ -8,7 +8,7 @@
 
 % Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
 
-function [ y_out ] = Mvmult_t_unb_var1( A, x, y )
+function [ y_out ] = Mvmult_t_unb_var2( A, x, y )
 
   [ AT, ...
     AB ] = FLA_Part_2x1( A, ...
