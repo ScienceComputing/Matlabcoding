@@ -36,3 +36,5 @@
 - [A function that multiplies a matrix and a vector using the partitioned dot-product of rows of the matrix with the vector](Mvmult_n_unb_var1B.m)
 
 - [A function that multiplies a matrix and a vector using the partitioned linear combination (AXPY) of the columns of this given matrix](Mvmult_n_unb_var2B.m)
+
+- [A function that multiplies a transposed matrix and a vector using the dot-product of columns of the matrix with the vector, by one column of the matrix at a time](Mvmult_t_unb_var1.m)
