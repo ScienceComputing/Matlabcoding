@@ -6,3 +6,4 @@
 - [A function that computes the matrix-matrix multiplication with rank-1 updates](Gemm_unb_var3.m)
 - [A function that performs the Gaussian elimination](GaussianElimination.m)
 - [A function that performs the forward substitution](ForwardSubstitution.m)
+- [A function that performs the LU factorization](LU_unb_var5.m)
