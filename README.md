@@ -7,5 +7,5 @@
 - [A function that performs the Gaussian elimination](GaussianElimination.m)
 - [A function that performs the forward substitution](ForwardSubstitution.m)
 - [A function that performs the LU factorization](LU_unb_var5.m)
-- [A function that performs the forward substitution, Solving Lz = b](Ltrsv_unb_var1.m)
+- [A function that performs the forward substitution, solving Lz = b](Ltrsv_unb_var1.m)
 - [A function that performs the backward substitution, solving Ux = b](Utrsv_unb_var1.m)
